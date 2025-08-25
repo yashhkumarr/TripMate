@@ -8,13 +8,13 @@
 </div>
 
 <div align="center">
-  <h3>🚀 AI-Powered Travel Planning & Itinerary Generation</h3>
+  <h3> AI-Powered Travel Planning & Itinerary Generation</h3>
   <p>Transform your travel dreams into detailed, personalized itineraries with the power of artificial intelligence</p>
 </div>
 
 ---
 
-## 🌟 Overview
+##  Overview
 
 Tripmate is a sophisticated AI-driven travel planning application that revolutionizes how travelers plan their journeys. By leveraging cutting-edge AI technologies including Portia AI, Google Gemini, and advanced search capabilities, Tripmate creates comprehensive, personalized travel experiences tailored to individual preferences, budgets, and interests.
 
@@ -26,7 +26,7 @@ Tripmate is a sophisticated AI-driven travel planning application that revolutio
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ### File Descriptions
 | File | Purpose |
@@ -40,7 +40,7 @@ Tripmate is a sophisticated AI-driven travel planning application that revolutio
 
 ---
 
-## 🛠️ Technology Architecture
+##  Technology Architecture
 
 ### Core Technologies
 | Component | Technology | Version |
@@ -59,21 +59,21 @@ Tripmate is a sophisticated AI-driven travel planning application that revolutio
 
 ---
 
-## ✨ Features
+##  Features
 
-### 🎯 Smart Planning Engine
+###  Smart Planning Engine
 - **Destination Intelligence**: AI-powered analysis of destinations, attractions, and local insights
 - **Budget Optimization**: Intelligent recommendations based on specified budget constraints
 - **Seasonal Awareness**: Consideration of weather, events, and seasonal factors
 - **Accessibility Features**: Recommendations considering mobility and accessibility needs
 
-### 📧 Automated Communication System
+###  Automated Communication System
 - **Comprehensive Reports**: Detailed itineraries with maps, recommendations, and tips
 - **Email Automation**: Instant delivery of travel plans to multiple recipients
 - **Calendar Integration**: Automatic scheduling of travel events and reminders
 - **Multi-format Output**: Support for various export formats and sharing options
 
-### 🔍 Advanced Search & Discovery
+###  Advanced Search & Discovery
 - **Real-time Information**: Live data from multiple sources for current recommendations
 - **Local Expertise**: Insights from local sources and recent traveler experiences
 - **Trend Analysis**: Identification of emerging destinations and experiences
@@ -81,7 +81,7 @@ Tripmate is a sophisticated AI-driven travel planning application that revolutio
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Python 3.11 or higher
@@ -144,7 +144,7 @@ Tripmate is a sophisticated AI-driven travel planning application that revolutio
 
 ---
 
-## 📱 User Interface
+##  User Interface
 
 ### Modern Design Philosophy
 - **Clean, Professional Layout**: Minimalist design focusing on user experience
@@ -160,7 +160,7 @@ Tripmate is a sophisticated AI-driven travel planning application that revolutio
 
 ---
 
-## 🔄 Workflow Process
+##  Workflow Process
 
 ### 1. Information Input
 Users provide comprehensive travel details including:
@@ -193,7 +193,7 @@ Automated delivery systems:
 
 ---
 
-## 🧪 Testing & Development
+##  Testing & Development
 
 ### Running Tests
 ```bash
@@ -222,7 +222,7 @@ black app.py
 
 ---
 
-## 📊 Performance & Scalability
+##  Performance & Scalability
 
 ### Optimization Features
 - **Caching System**: Intelligent caching of AI responses and search results
@@ -238,7 +238,7 @@ black app.py
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions to make Tripmate even better! Here's how you can help:
 
@@ -257,7 +257,7 @@ We welcome contributions to make Tripmate even better! Here's how you can help:
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
@@ -269,7 +269,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 🆘 Support & Community
+##  Support & Community
 
 ### Getting Help
 - **Documentation**: Comprehensive guides and API references
@@ -285,7 +285,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 🏆 Acknowledgments
+##  Acknowledgments
 
 ### Open Source Contributors
 Special thanks to the open source community for providing the foundational technologies that make Tripmate possible.
@@ -298,7 +298,7 @@ Special thanks to the open source community for providing the foundational techn
 ---
 
 <div align="center">
-  <p><strong>Made with ❤️ by the Yash Kumar</strong></p>
+  <p><strong>Made with ❤ by the Yash Kumar for Agent Hack 2025 </strong></p>
   <p>Transform your travel planning experience with the power of AI</p>
   
      [![GitHub stars](https://img.shields.io/github/stars/yashhkumarr/tripmate?style=social)](https://github.com/yashhkumarr/tripmate)
